@@ -18,8 +18,8 @@ A smart parking gate system designed using Arduino, ultrasonic and IR sensors, a
 - LCD displays real-time system status
 - Designed for safe, systematic parking entry
 
-## Demo Video
-[Watch on YouTube through this playlist](https://youtube.com/playlist?list=PLvjoIOhPzRH5EloviU5a_IpTimhs7s1a6&feature=shared)
+## Demonstration Video
+[Automatic Parking Gate YouTube](https://youtube.com/playlist?list=PLvjoIOhPzRH5EloviU5a_IpTimhs7s1a6&feature=shared)
 
 ## License
 Open for educational use. Created as part of course ES116: Principles and Application of Electrical Engineering at IIT Gandhinagar.
